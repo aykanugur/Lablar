@@ -29,7 +29,7 @@ int main() {
     int labGrade;
     int midGrade;
     int finalGrade;
-    int totalGrade = 0;
+    float totalGrade = 0;
     cout << "Enter your name : ";
     cin >> name;
     cout << "Enter your Lab grade : ";
