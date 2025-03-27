@@ -17,6 +17,9 @@ def sine_x(x,n):
     
 globalVal = 0
 def question3(n):
+    """
+    This function sum 1/n values
+    """
     global globalVal
     if n > 0:
         globalVal += 1/n 
